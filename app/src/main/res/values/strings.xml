@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Navigation Drawer</string>
+    <string name="help">Help</string>
+    <string name="rateMe">Rate Me</string>
+    <string name="setting">Setting</string>
+    <string name="tableNo">Table No</string>
+    <string name="openNavDrawer">Navigation Drawer Open</string>
+    <string name="closeNavDrawer">Navigation Drawer Close</string>
+
+</resources>
